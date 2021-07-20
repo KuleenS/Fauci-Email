@@ -1,0 +1,25 @@
+Calculator for Positive Predictive Value (PPV) and Negative Predictive Value (NPV) for individual tests and combined
+|Prevalence |__—5.0%
+
+   
+  
+
+      
+ 
+
+ 
+ 
+
+%Pos 1 PPY¥1 for nea NPV1 for
+‘Test1=pos Test1=pos Test1=neg Test1=neg
+a 88.7% 99.8%
+
+   
+
+88.0%
+
+ 
+
+NPV for
+(Tést1=pos,
+

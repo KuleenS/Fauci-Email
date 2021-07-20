@@ -1,0 +1,49 @@
+viral infection is stopped and the host cell survives. N-acetyl-cysteine, a
+potent anti-oxidant and glutathione precursor, alters the redox state of
+treated cells and can quench this same pathway (4,5). NAC (N-acetyl
+cysteine) has been used to rapidly clear Rotavirus diarrheal infections in
+children (6). Furthermore, the porcine epidemic diarrhea virus
+
+(PEDV) coronavirus has been studied in Vero cells. In vitro, NAC blocks
+that particular virus (7), and in vivo, NAC blocks intestinal damage caused
+by this virus (8). NAC likely provides a "redox clamp" on the autophagy
+pathway this virus exploits.
+
+Since the PEDV coronavirus is effectively blocked in Vero cells by NAC, the
+SARS-CoV-2 (COVID-19) will likely also be inhibited. This test should be
+done, and if positive, clinical trials ought to follow.
+
+Doses of 2.4-3.5 g/d of NAC have been used to treat patients with Lupus
+(4). That dose is well tolerated and inexpensive.
+
+If NAC were effective in symptomatic patients, it could add a cost-effective
+measure of protection to healthcare workers and exposed individuals.
+
+References:
+
+1) Wang, M., Cao, R., Zhang, L. et al. Remdesivir and chloroquine
+effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in
+vitro. Cell Res
+
+Y Yin et. al. PISK-AKT-mTOR axis sustains rotavirus infection via the 4E-
+BP1 mediated autophagy pathway and represents an antiviral
+target. Virulence, 2018 VOL. 9, NO. 1, 83-98
+
+3) J Kindrachuk et. al, Antiviral Potential of ERK/MAPK and
+PISK/AKT/mTOR Signaling Modulation for Middle East Respiratory
+Syndrome Coronavirus Infection as Identified by Temporal Kinome
+
+Analysis Antimicrobial Agents and Chemotherapy February 2015 Volume
+59 Number 2 p 1088-1099
+
+4) Zhi-Wei Lai, et al, N-Acetylcysteine reduces disease activity by blocking
+mTOR in T cells of Lupus patients, Arthritis Rheum. 2012 September;
+64(9): 2937-2946
+
+5) C. C. Xu, S. F. Yang, L. H. Zhu, X. Cai, Y. S. Sheng, S. W. Zhu, J. X. Xu,
+Regulation of N-acetyl cysteine on gut redox status and major microbiota in
+weaned piglets, Journal of Animal Science, Volume 92, Issue 4, April
+2014, Pages 1504-1511, https://doi.org/10.2527/jas.2013-6755
+
+NIH-00037 1
+

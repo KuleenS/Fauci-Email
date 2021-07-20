@@ -1,0 +1,66 @@
+100 TGEV
+Mink CoV
+100 Ferret CoV
+98 Bat CoV CDPHE15
+100 Ba Scotophilus bat CoV 512
+9 PEDV
+Bat CoV HKU10
+&% Minlopterus bat CoV 1
+100 Miniopterus bat CoV HKU8
+'00 100 Human CoV NL63
+Bat NL63-related CoV
+Human CoV 229E
+SADS-CoV
+10* Rhinolophus bat CoV HKU2
+sai Human CoV 0C43
+100 Murine hepatitis virus
+Rat CoV HKU24
+Human CoV HKU1
+96 $00; Human MERS-CoV <7%_
+96 Camel MERS-CoV “
+100 Pipistrellus bat CoV HKUS
+Tyfonycteris Bat CoV HKU4
+Hedgehog CoV
+100 100) SARS-CoV BJ01
+109) "Civet SARS-CoV SZ3
+too] Ly Bat SARSr-CoV WIV1
+100 Bat SARSr-CoV SHC014
+Bat SARSr-CoV LYRa11
+% Bat SARSr-CoV Rf1
+&3 Bat SARSr-CoV ZC45
+1oo— Bat SARSr-CoV HKU3-1
+, Bat SARSr-CoV BM48-31
+= BetaCoV/Wuhan/WIV05/2019
+100] BetaCoVWuhan/WIV02/2019
+BetaCoV/Wuhan/WIV04/2018
+BetaCoV/Wuhan/WIV06/2019
+100 ' BetaCoVAWuhan/MWIV07/2019
+Bat CoV RaTGt3
+9? Bat Hp BetaCoV Zhejiang 2013
+Rousettus bat CoV HKU9
+100 Bat CoV GCCDC1
+
+7
+
+IBV
+
+0.1
+
+The longer a virus circulates in a human populations, the more time it has to develop mutations that
+differentiate strains in infected people, and given that the 2019-nCoV sequences analyzed to date differ
+from each other by seven nucleotides at most, this suggests it jumped into humans very recently. But it
+remains a mystery which animal spread the virus to humans. “There’s a very large gray area between
+viruses detected in bats and the virus now isolated in humans,” says Vincent Munster, a virologist at the
+U.S. National Institute of Allergy and Infectious Diseases who studies coronaviruses in bats, camels, and
+others species.
+
+Strong evidence suggests the marketplace played an early role in spreading 2019-nCoV, but whether it
+was the origin of the outbreak remains uncertain. Many of the initially confirmed 2019-nCoV cases—27
+of the first 41 in one report, 26 of 47 in another—were connected to the Wuhan market, but up to 45%,
+including the earliest handful, were not. This raises the possibility that the initial jump into people
+happened elsewhere.
+
+ 
+
+NIH-002436
+

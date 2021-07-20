@@ -1,0 +1,63 @@
+BCX4430
+Brincidofovir
+FGI-106
+JK-05
+REGN-EB3
+TKM-Ebola
+Triazavirin
+ZMapp
+
+References|[edit]
+
+10.
+
+“ Jump up to: ¢ > Furuta Y, Takahashi K, Shiraki K, Sakamoto K, Smee DF, Barnard DL,
+Gowen BB, Julander JG, Morrey JD (June 2009). "T-705 (favipiravir) and related
+compounds: Novel broad-spectrum inhibitors of RNA viral infections". Antiviral
+Research. 82 (3): 95-102. doi: 10.1016/.antiviral.2009.02.198. PMID 19428599.
+
+“ Furuta Y, Gowen BB, Takahashi K, Shiraki K, Smee DF, Barnard DL (November
+2013). "Favipiravir (T-705), a novel viral RNA polymerase inhibitor". Antiviral
+Research. 100 (2): 446-54. doi: 10.1016/j.antiviral.2013.09.015. PMC 3880838.
+
+PMID 24084488.
+
+“ Caroline AL, Powell DS, Bethel LM, Oury TD, Reed DS, Hartman AL (April 2014).
+"Broad spectrum antiviral activity of favipiravir (T-705): protection from highly lethal
+inhalational Rift Valley Fever". PLOS Neglected Tropical Diseases. 8 (4): e2790.
+
+doi: 10.1371 /journal. pnta.0002790. PMC 3983105. PMID 24722586.
+
+“ Mumtaz N, van Kampen JJ, Reusken CB, Boucher CA, Koopmans MP (2016). "Zika
+Virus: Where Is the Treatment?". Current Treatment Options in Infectious Diseases. 8
+(3): 208-11. doi: 10.1007/s40506-016-0083-7. PMC 4969322. PMID 27547128.
+
+* Yamada K, Noguchi K, Komeno T, Furuta Y, Nishizono A (April 2016). "Efficacy of
+Favipiravir (T-705) in Rabies Postexposure Prophylaxis". The Journal of Infectious
+Diseases. 213 (8): 1253-61. doi:10.1093/infdis/jiv586. PMC 4799667. PMID 26655300.
+
+ 
+
+ 
+
+® Murphy J, Sifri CD, Pruitt R, Hornberger M, Bonds D, Blanton J, Ellison J, Cagnina
+RE, Enfield KB, Shiferaw M, Gigante C, Condori E, Gruszynski K, Wallace RM (January
+2019). "Human Rabies - Virginia, 2017". MMWR. Morbidity and Mortality Weekly
+Report. 67 (5152): 1410-14. doi: 10.15585/mmwr.mm675152a2. PMC 6334827.
+
+PMID 30605446.
+
+“ L1G, De Clercq E. Therapeutic options for the 2019 novel coronavirus (2019-nCoV).
+Nature Reviews Drug Discovery 2020 Feb doi:10.1038/d41573-020-00016-0
+
+“ BRIEF-Corrected-Zhejiang Hisun Pharma gets approval for clinical trial to test flu
+drug Favipiravir for pneumonia caused by new coronavirus. Reuters Healthcare, February
+16, 2020.
+
+“ NHK World News ‘China: Avigan effective in tackling coronavirus’
+
+® Huaxia. "Favipiravir shows good clinical efficacy in treating COVID-19: official."
+Xinhuanet.com, 17 March 2020
+
+NIH-000297
+

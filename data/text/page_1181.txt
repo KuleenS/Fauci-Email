@@ -1,0 +1,52 @@
+Importantly, beside the anti-inflammatory activity, proteasome inhibitors showed also significant anti-
+fibrotic activity (Lueftenegger et al., manuscript and figs attached), which may be also important in the
+treatment of COVID-19 patients with heavy lung disease.
+
+Furthermore, there have been several publications showing that in particular early phases of the
+replication cycle of Corona virus seem to be dependent on interaction with the ubiquitin-proteasomal
+system (UPS) of the host cell, and were effectively inhibited by selective 20S proteasome inhibitors
+(such as Velcade) (Wang et al. Virology J 2010, 7:99 (ref. 3); M. Raaben et al. J. Virology, 84(15), 2010,
+ref. 4).
+
+There are several registered proteasome inhibitors (Bortezomib (Velcade®) e.g. produced by
+Millennium Pharmaceuticals (i.e Takeda Oncology); Carfilzomib (Kyprolis®), Ixazomib (Ninlaro®)) for
+treatment of multiple myeloma and Mantel cell lymphoma, i.e. there are registered drugs with well
+known side effects available to be tested in small clinical studies for evaluation of their therapeutic
+efficacy in COVID-19 patients with heavy lung disease and other organ failure. Noteworthy: in contrast
+to the chronical oncological indications where up to 8 treatment cycles (and sometimes even more) are
+applied, it seems plausible that just one or two treatment cycles of proteasome inhibitors might be
+sufficient to downregulate the cytokine storm in COVID-19 patients, which would be associated also
+with much lower side effects.
+
+Early first experience on efficacy could be gained from compassionate use applications in heavily ill
+COVID-19 patients very quickly. Beside the registered application forms , i.e. infusions, probably also
+inhalative application should be tested as well, because it may be better suited to reach the respective
+target cells in the lung, i.e. alveolar epithelial cell and alveolar macrophages. There are multiple
+inhalative devices available, e.g. the Handyhaler by Boehringer Ingelheim used for Spiriva (for COPD
+treatment).
+
+Although there are still many open questions, the potential to control the cytokine storm-induced heavy
+lung and other organ failure by using already registered drugs, ie. proteasome inhibitors may be a real
+
+chance to get an additional treatment option, hopefully decreasing the cases necessary for artificial
+aeration.
+
+Please forward this mail to the colleages you consider relevant for evaluation, discussion and
+consideration for your clinical strategy for COVID-19.
+
+Please let me know if additional informations are necessary.
+To my person: | have MD PhD degree and have many years experience in pharmaceutical development
+(Boehringer Ingelheim), Biotech (Igeneon, Aphton, Virologik GmbH) (for reference see also PubMed
+
+Kircheis r) currently leading R&D activities at Syntacoll (part of Innocoll). | am providing this information
+personally in order to help to find a treatment for COVID-19 patients.
+
+Looking forward to getting feedback from you,
+With kind regards,
+
+Ralf Kircheis (MD PhD)
+
+SL (1)
+
+rkircheis@syntacoll.de
+

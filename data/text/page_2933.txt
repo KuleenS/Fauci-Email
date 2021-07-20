@@ -1,0 +1,59 @@
+member of the family of coronaviruses that infect humans. Novel coronaviruses from
+Wuhan, together with 2 bat-derived SARS-like strains, form a distinct clade in lineage B
+of the subgenus sarbecovirus. 2019-nCov is a group 2b coronavirus (as are MERS-CoV
+and SARS-CoV), with a whole genome similarity of up to 80% to SARS-CoV but with a
+similarity between different gene segments ranging from 60% to 90%. 2019-nCoV
+exhibits a 96.5% similarity to the known bat coronavirus precursors in the same viral
+clade.
+
+Sequence data allowed national laboratories to rapidly develop diagnostic kits, which
+are now available in most developed countries and most Asian countries. HKU1, NL63,
+229E, and OC43 are human coronaviruses that are detected by some routine multiplex
+PCR panels used in routine clinical practice. These coronaviruses are associated with
+minor upper respiratory infections and viral pneumonia, but unlike SARS-CoV, MERS-
+CoV, and 2019-nCoV, these agents are not associated with major outbreaks or severe
+respiratory distress syndrome. 2019-nCoV is not reactive in these tests. The findings so
+far strongly favor (but do not prove) causation. 2019-nCoV has been shown to use the
+same cell-entry receptor as SARS-CoV. Viral loads appear to be highest in lower
+respiratory tract specimens, which should be the primary specimen obtained. Prediction
+of human-to-human transmissibility from sequence data is difficult because
+coronaviruses vary widely in their transmissibility; coronaviruses acquired from animals
+generally have some potential for human-to-human transmission. Evidence from
+subsequent whole genome sequences acquired over the last several weeks show little
+genetic variation, indicating that the virus jumped from an animal reservoir to humans
+within the last few months. Identical recent mutations in epidemiologically unlinked
+cases support sustained human-to-human transmission.
+
+Criteria for Testing of Suspected Cases
+
+U.S. CDC
+
+Persons meeting the following criteria (clinical features and epidemiologic risk) for
+suspected cases of 2019-nCoV will be considered persons under investigation (PUI):
+
+Fever and symptoms of lower respiratory illness (e.g., cough, shortness of
+
+breath) p/us a history of travel to Wuhan or close contact with a PUI for 2019-nCoV
+while that person was ill in the past 14 days before symptom onset
+
+Fever or symptoms of lower respiratory illness (e.g., cough, shortness of
+
+breath) p/us close contact with an ill, laboratory-confirmed 2019-nCoV case in the past
+14 days before symptom onset
+
+HCWs entering the room with a PUI should use standard precautions, contact
+precautions, airborne precautions, and eye protection (e.g., goggles or a face shield).
+
+PUlIs for 2019-nCoV should be asked to wear a surgical mask as soon as they are
+identified and be evaluated in a private room with the door closed, ideally an airborne-
+infection isolation room if available.
+
+Prevention
+
+Travelers going to Wuhan should avoid animals (alive or dead), animal markets,
+products that come from animals (such as uncooked meat), and contact with ill-
+appearing persons. Quality of infection control at medical facilities in Wuhan is
+uncertain, and those with minor medical problems should avoid busy medical settings.
+
+NIH-002138
+

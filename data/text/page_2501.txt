@@ -1,0 +1,16 @@
+prediction model based on real-time RT-PCR Ct value. Findings: The Result showed that cases with
+RNAaemia were exclusively confirmed in critically ill patients group and appeared to reflect the illness
+severity. Further more, the inflammatory cytokine IL-6 levels were significantly elevated in critically ill
+patients, which is almost 10-folds higher than those in other patients. More importantly, the extremely
+high IL-6 level was closely correlated with the incidence of RNAaemia (R=0.902) and the vital signs of
+COVID-19 patients (R= -0.682). Interpretation: Serum SARS-CoV-2 viral load (RNAaemia) is strongly
+associated with cytokine storm and can be used to predict the poor prognosis of COVID-19 patients.
+Moreover, our results strongly suggest that cytokine IL-6 should be considered as a therapeutic target in
+critically ill patients with excessive inflammatory response.
+
+Disclaimer: Any third-party material in this email has been shared for internal use under fair use provisions
+of U.S. copyright law, without further verification of its accuracy/veracity. It does not necessarily represent
+my views nor those of NIAID, NIH, HHS, or the U.S. government.
+
+NIH-000936
+

@@ -1,0 +1,25 @@
+How do you interpret the surface stability data?
+
+Copper seems to have some virucidal effect, as is seen with other viruses. Plastic and stainless steel
+don’t have much of an effect on the virus itself, and the virus persists for some time. As for cardboard,
+difficult to interpret because the surface absorbs a good deal, but there is some immediate decay.
+
+Should we be concerned about packages based on your data?
+
+This is of far lower concern than droplet and other fomite transmission. Typical shipping will allow ample
+time for viral decay, and the cardboard itself seems to have some direct effect on the virus (either
+through absorption or other effect). For example, in the experiment, Vincent applied
+
+10e5 viral particles/mL and it drops 2 logs to 10e3 immediately, indicating that either due to absorption
+or direct effect on the virus.
+
+Of course, if a mail carrier coughs on a package and then someone touches it directly after, there may
+be a risk. The typical shipping situation is likely not a concern.
+
+Why are SARS-CoV-2 vs. SARS-CoV-1 different?
+
+For the cardboard data in particular, there is a difference seen between SARS-CoV-2 and 1, which is
+likely due to error/variation in surface.
+
+NIH-000816
+

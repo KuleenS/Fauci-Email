@@ -1,0 +1,44 @@
+https://cabm.rutgers.edu
+From: Fauci, Anthony (NIH/NIAID) [EJE OY
+Sent: Sunday, January 26, 2020 7:16 PM
+
+To: Martin Blaser OF}
+Cc: Conrad, Patricia (NIH/NIAID) (E) [OF
+
+Subject: RE: SARS 2003, Influenza 2009 and the present
+
+Marty:
+
+Many thanks. This is very helpful.
+Best regards,
+Tony
+
+From: Martin Blaser [BE
+Sent: Saturday, January 25, 2020 9:35 AM
+
+To: Fauci, Anthony (NIH/NIAID) [E]
+Subject: SARS 2003, Influenza 2009 and the present
+
+Webb G, Blaser MJ, Zhu H, ArdalS, Wu J. Critical role of nosocomial transmission
+in the Toronto SARS outbreak. Mathematical Biosciences and Engineering 2004; 1:
+1-13. [PMID: 20369956] [Paper of the year, 2004]
+
+Webb GF, Hsieh Y-H, Wu J, Blaser MJ. Pre-symptomatic influenza
+transmission, surveillance, and school closings: mnplications for novel
+influenza A (H1N1). Mathematical Modelling of Natural Phenomena
+2010; 5:191-205.
+
+Dear Tony,
+
+Thanks for your JAMA piece on 2019-nCoV. Perhaps I can help in a
+small way:
+
+In 2003, with SARS, the Ro was initially considered to be over 2, but in
+fact that was the conflation of the nosocomial and community rates. In the
+2004 paper, we showed that nosocomial rate was much higher, and that the
+Ro in the community was between 1 and 2. A lower Ro in the community
+accounts for why moderate public health actions could move it toward
+extinction--and why it propagated in Beijing, but not Shanghai, in Toronto
+
+NIH-001957
+

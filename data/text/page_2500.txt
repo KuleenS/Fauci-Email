@@ -1,0 +1,54 @@
+From: Fauci, Anthony (NIH/NIAID) [E]
+
+  
+
+Sent: Fri, 6 Mar 2020 04:04:44 +0000
+To: 0) 6)
+Subject: FW: medRxiv: Detectable serum SARS-CoV-2 viral load (RNAaemia) is closely
+
+associated with drastically elevated interleukin 6 (IL-6) level in critically ill COVID-19 patients
+
+fyi
+
+From: Folkers, Greg (NIH/NIAID) [E] <___ OY >
+
+Sent: Wednesday, March 4, 2020 4:27 PM
+Subject: medRxiv: Detectable serum SARS-CoV-2 viral load (RNAaemia) is closely associated with
+drastically elevated interleukin 6 (IL-6) level in critically ill COVID-19 patients
+
+Detectable serum SARS-CoV-2 viral load
+(RNAaemia) is closely associated with
+drastically elevated interleukin 6 (IL-6) level in
+critically ill COVID-19 patients
+
+Xiaohua Chen, Binghong Zhao, Yueming Qu, Yurou Chen, Jie Xiong, Yong Feng, Dong Men, Qianchuan
+Huang, Ying Liu, Bo Yang, Jinya Ding, Feng Li
+doi: https://doi.org/10.1101/2020.02.29.20029520
+
+This article is a preprint and has not been peer-reviewed [what does this mean?]. It reports
+new medical research that has yet to be evaluated and so should not be used to guide clinical
+practice.
+
+e Abstract
+e Info/History
+e Metrics
+
+e
+
+e Preview PDF
+
+Abstract
+
+Background: Although the SARS-CoV-2 viral load detection of respiratory specimen has been widely used
+for novel coronavirus disease (COVID-19) diagnosis, it is undeniable that serum SARS-CoV-2 nucleic acid
+(RNAaemia) could be detected in a fraction of the COVID-19 patients. However, it is not clear that if the
+incidence of RNAaemia could be correlated with the occurrence of cytokine storm or with the specific
+class of patients. Methods: This study enrolled 48 patients with COVID-19 admitted to the General
+Hospital of Central Theater Command, PLA, a designated hospital in Wuhan, China. The patients were
+divided into three groups according to the Diagnosis and Treatment of New Coronavirus Pneumonia
+(version 6) published by the National Health Commission of China. The clinical and laboratory data were
+collected. The serum viral load detection and serum IL-6 levels were determined. Except for routine
+Statistical analysis, Generalized Linear Models (GLMs) analysis was used to establish a patient status
+
+NIH-000935
+

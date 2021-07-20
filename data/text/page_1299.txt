@@ -1,0 +1,48 @@
+   
+
+The estimates on this page have been updated from an earlier report published in
+December 2018 based on more recently available information. There is a trade-off
+between timeliness and accuracy of the burden estimates. To provide timely burden
+estimates to the public, clinicians, and public health decision-makers, we use preliminary
+data that may lead to over- or under-estimates of the true burden. However, each
+season’s estimates will be finalized when data on testing practices and deaths for that
+season are available.
+
+For the revised 2017-2018 estimates, we included additional information in our estimation
+regarding influenza testing practices. The surveillance system used to estimate influenza-
+related hospitalizations, FluSurv-NET, collects data on patients hospitalized with
+laboratory-confirmed influenza. Influenza testing is done at the request of the clinician, but
+not everyone is tested and influenza tests are not perfectly accurate. Thus, the reports of
+laboratory-confirmed influenza-related hospitalizations to FluSurv-NET are likely
+underestimates of the true number of hospitalizations. To adjust for this, CDC collects data
+annually from participating FluSurv-NET sites on the amount of influenza testing and the
+type of test that is used at the site, and this information is used to correct for the possible
+underestimate of influenza-related hospitalizations. These testing data are often not
+available for up to two years after the end of an influenza season, and thus the estimates
+are revised when additional testing data become available. For the original preliminary
+2017-2018 burden estimates, data on testing practices during the 2014-2015 season were
+used to make preliminary estimates because this season had the highest levels of testing
+among the prior seasons for which data were available and resulted in the most
+conservative (lowest) estimates of burden. More recent data from the 2016-17 season
+show that influenza testing has been increasing among most age groups. The current
+estimates were made using the highest testing rate for each age-group during 2010-11 to
+2016-17 and has resulted in some burden estimates being lower than previously
+estimated.
+
+Additionally, the method we use to estimate influenza-associated deaths relies on
+additional data from FluSurv-NET and the National Center for Health Statistics (data on
+cause of deaths and numbers of deaths that occur in versus outside the hospital) that are
+also not available for up to two years after the end of the season being estimated.
+
+The 2017-2018 estimates are still preliminary because not all of the required data are
+currently available. When those data become available, these estimates will be updated
+again and the results may change.
+
+More answers to frequently asked questions about CDC’s influenza burden estimates are
+available.
+
+Disclaimer: Any third-party material in this email has been shared for internal use under fair
+use provisions of U.S. copyright law, without further verification of its accuracy/veracity. It
+does not necessarily represent my views nor those of NIAID, NIH, HHS, or the U.S.
+government.
+

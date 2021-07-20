@@ -1,0 +1,18 @@
+- the final size of epidemic = +/- 462760 people infected and detected;
+
+- date of epidemic peak = +/- 1- 2 April 2020 with theorical new cases - in one day
+during this peak - about +/- 28390;
+
+- end of epidemic = +/- 15 May 2020;
+
+- mortality :
+
+** if dead rate 5% = +/- 23140 deceased people
+** if dead rate 10% = +/- 46275 deceased people
+
+lf you are interrested by our simulations, you can contact us.
+
+Best regards.
+
+Dr Quirico BLONDA
+

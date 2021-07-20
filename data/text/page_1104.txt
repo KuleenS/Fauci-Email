@@ -1,0 +1,44 @@
+Li was the first scientist to propose the Wuhan lockdown,according to state media reports. The
+government followed her advice and in late January, the city of more than 11 million residents was shut
+down overnight.
+
+The sample size in this most recent study was remarkably small. Other studies tracking the virus
+mutation usually involved hundreds, or even thousands, of strains.
+
+Li’s team detected more than 30 mutations. Among them 19 mutations — or about 60 per cent — were
+new.
+
+They found some of these mutations could lead to functional changes in the virus’ spike protein, a
+unique structure over the viral envelope enabling the coronavirus to bind with human cells. Computer
+simulation predicted that these mutations would increase its infectivity.
+
+To verify the theory, Li and colleagues infected cells with strains carrying different mutations. The most
+aggressive strains could generate 270 times as much viral load as the weakest type. These strains also
+killed the cells the fastest.
+
+It was an unexpected result from fewer than a dozen patients, “indicating that the true diversity of the
+viral strains is still largely underappreciated,” Li wrote in the paper.
+
+ 
+
+Professor Li Lanjuan is a leading Chinese epidemiologist. Photo: Xinhua
+
+The mutations were genes different from the earliest strain isolated in Wuhan, where the virus was first
+detected in late December last year.
+
+The coronavirus changes at an average speed of about one mutation per month. By Monday, more than
+10,000 strains had been sequenced by scientists around the globe, containing more than 4,300
+mutations, according to the China National Centre for Bioinformation.
+
+Most of these samples, though, were sequenced by a standard approach that could generate a result
+quickly. The genes were read just once, for instance, and there was room for mistakes.
+
+Li’s team used a more sophisticated method known as ultra-deep sequencing. Each building block of the
+virus genome was read more than 100 times, allowing the researchers to see changes that could have
+been overlooked by the conventional approach.
+
+The researchers also found three consecutive changes — known as tri-nucleotide mutations — in a 60-
+year-old patient, which was a rare event. Usually the genes mutated at one site at a time. This patient
+spent more than 50 days in hospital, much longer than other Covid-19 patients, and even his faeces
+were infectious with living viral strains.
+

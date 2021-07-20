@@ -1,0 +1,64 @@
+From: Fauci, Anthony (NIH/NIAID) [E]
+
+Sent: Sun, 1 Mar 2020 19:31:54 +0000
+
+To: Jeffrey V. Ravetch
+
+Ce: Stelios Bournazos
+
+Subject: RE: Fc modifications for protective anti-COVID-19 antibodies
+Jeff:
+
+Thanks for the note and the slide. Veryinteresting. Please send me the
+preprint when it becomes available.
+Best,
+Tony
+
+Anthony S. Fauci, MD
+
+Director
+
+National Institute of Allergy and Infectious Diseases
+
+Building 31, Room 7A-03
+
+31 Center Drive, MSC 2520
+
+National Institutes of Health
+
+Bethesda, MD 20892-2520
+
+Phone: D) (6}
+
+FAX: (301) 496-4409
+
+E-mailf, 65)
+
+The information in this e-mail and any of its attachments is confidential and may contain sensitive
+information. It should not be used by anyone who is not the original intended recipient. If you
+have received this e-mail in error please inform the sender and delete it from your mailbox or any
+other storage devices. The National Institute of Allergy and Infectious Diseases (NIAID) shall not
+accept liability for any statements made that are the sender's own and not expressly made on
+behalf of the NIAID by one of its representatives.
+
+From: Jeffrey V. Ravetch 06) 6)
+Sent: Sunday, March 1, 2020 12:43 PM
+
+To: Fauci, Anthony (NIH/NIAID) [E]Z OO
+Cc: Stelios Bournazosf GF
+
+Subject: Fc modifications for protective anti-COVID-19 antibodies
+
+ 
+
+Dear Tony,
+
+| wanted to share a very recent and surprising result we’ve obtained on the
+mechanism of antibody protection for anti-viral antibodies. We’ve previously shown
+that bNAbs to flu and HIV require FcR engagement for their in vivo potency.
+Enhancing activating FcR engagement increases the potency of these antibodies by
+an order of magnitude, on average, and thus are significant contributors to anti-viral
+protection.
+
+NIH-001090
+

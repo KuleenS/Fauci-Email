@@ -1,0 +1,57 @@
+transformed into an active molecule(3). It is the ionized form which establishes covalent bonds with the SH group of
+the cysteine of the a subunit of the proton pump.
+
+The solution used in 2015 by Jason Long et al. was, as in 2016 by Dowall et al., DMSO(Dimethyl Sulfoxide).
+DMSO is a polar and aprotic organic solvent with dissociation constant pKa = 35.1 This is probably an explanation
+for the surprising findings from these studies regarding proton pump inhibitors: Inhibition of viruses at 100 pM (at
+50 uM esomeprazole for 4 of the 5 viruses tested) and increase in endosomal pH only at a concentration of 200 uM.
+
+This is a situation which, from my point of view, does not reflect the human tissue situation, because in this situation
+omeprazole can be ionized in the intracellular space but also already in the extracellular space.
+Besides, that’s probably its advantage: to be ionized and activated where there is an acidic environment.
+
+Without taking into account the tissue situation and the need that omeprazole must be ionized to be transformed into
+an active molecule, it would not be possible to explain the following publications, since it would be impossible to
+obtain tissue concentrations required:
+
+« Proton pump inhibitors as anti vacuolar-ATPases drugs: a novel anticancer strategy » (4)
+
+« Anti-Rhinovirus activity of lansoprazole, which was probably due to an endosomal anti-acidic mechanism »
+
+(5)
+
+‘ « The use of omeprazole family compounds was associated with a lower probability of influenza-like illness »
+(6)
+
+« PPIs exert an antiviral function by effectively inhibiting virus-specific serine proteases » (7)
+
+« Proton pump inhibitors for chronic obstructive pulmonary disease » (8)
+
+« The ngH,K-ATPase shares approximately 65% sequence homology with the gH,K-ATPase » (9)
+« Omeprazole blocked another P-type ATPase, ATP7A (Menkes protein) in human epidermal mélanocytes »
+(10)
+
+« pH-dependent antitumor activity of proton pump inhibitors » (11)
+
+« V-ATPase as a candidate target molecule or biomarker for cancer treatment and provide a potential role for
+omeprazole as a chemosensitizer in clear cell carcinoma of the ovary » (12)
+
+« Proton pump inhibitors such as omeprazole, used clinically to suppress gastric acidity in gastritis, are
+activated by acidic conditions and tend to decrease intracellular pH and increase the extracellular pH via inhibition
+of V-ATPases in a covalent interaction » (13)
+
+« proton pump inhibitors have been shown to be highly effective at inhibiting V-ATPases in vitro » (14)
+
+Specifically at the pulmonary level, we observe concerning proton pump inhibitors:
+
+« ...Since ATP12A shares approximately 65% identity with the gastric H+/K+-ATPase (ATP4A), we
+investigated the potential of using clinically approved ATP4A proton pump inhibitors (PPIs) for their ability to
+restore ASL pH in CF hAECs. We show that, despite not expressing ATP4A transcripts, acute exposure to the PPI
+esomeprezole, produced changes in intracellular pH that were consistent with the inhibition of H+ secretion, but this
+response was independent of ATP12A. More importantly, chronic exposure of CF hAECs to esomeprazole
+alkalinized the ASL without disrupting the epithelial barrier integrity, but this increase in ASL pH was consistent
+with a decrease in mRNA expression of ATP12A. We conclude that PPIs may offer a new approach to restore ASL
+pH in CF airways, which is independent of CFTR.... » (15)
+
+NIH-001964
+

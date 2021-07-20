@@ -1,0 +1,10 @@
+ 
+
+Subject: Serology Test Calculator
+
+Attached is a very rudimentary calculator that you are welcome to share with the WHTF/HHS serology
+WG to calculate the positive predictive value and negative predictive value of individual serology tests
+and the use of two tests by plugging in the known or estimated sensitivity, specificity, and population
+
+prevalence of COVID-19. (OC)
+

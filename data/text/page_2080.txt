@@ -1,0 +1,17 @@
+Yiming Luo, MD
+
+[1] Wang et al, Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel
+Coronavirus—Infected Pneumonia in Wuhan, China. JAMA. 2020 Feb 7. Doi:
+10.1001/jama.2020.1585.
+
+[2] Chang et al, Protecting health care workers from subclinical coronavirus infection,
+Lancet Respir Med. 2020 Mar;8(3):e13. doi: 10.1016/S2213-2600(20)30066-7.
+
+[3] Jones et al, Aerosol transmission of infectious disease. J Occup Environ Med. 2015
+May;57(5):501-8. doi: 10.1097/JOM.0000000000000448.
+
+[4] Doremalen et al, Aerosol and surface stability of HCoV-19 (SARS-CoV-2) compared to
+SARS-CoV-1. doi: https://doi.org/10.1101/2020.03.09.20033217 (MedRxiv)
+
+NIH-000483
+

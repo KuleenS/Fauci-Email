@@ -1,0 +1,40 @@
+You have the same problem in the outpatient areas. Have a sick patient
+slip through and come in contact with a number of the clinic staff (not
+in PPE), and we now need to quarantine all those staff. In contrast to a
+breach for the inpatient area, the outpatient area can still operate as a
+safe area (just minus those staff who would now be on quarantine). But
+do that a few times and pretty soon you have nobody left to fight. One
+way I thought about dealing with this scenario is to take the outpatient
+staff and split them in two. One group works the clinic (physically
+present) for the usual clinic hours for a 14 day stretch (1 incubation
+period). Another group works from home (and practices social
+distancing, etc., really acting as if they are on home quarantine) and
+leverages telehealth technology to care for patients and help with
+monitoring those patients in home isolation and home quarantine. After
+14 days the groups switch. [All along we monitor employees daily
+(whether at work or at home) for symptoms or sick household
+members] In the event of a breach, the groups immediately switch and
+the group that was working 1s placed on actual home quarantine (but
+still continues to work from home leveraging telehealth). That way if a
+breach does happen, we have a fallback response (that we are constantly
+practicing) that allows us to sustain outpatient care.
+
+For the inpatient areas, I thought about the lone survivor model (holding
+back 1 Secretary and staff in the event that the government ts
+decapitated). So think of a small group (would need to think thru what
+the composition of that team would look like for each area (acute care,
+inpatient mental health, long term care) that would at least provide the
+nucleus of the expertise necessary to reconstitute the service in the
+event of a major breach). This smaller group would vary in team
+members every 2 weeks and would rotate to work from home for 14
+days stretches and practice social distancing (acting as if they were on
+home quarantine). They could also assist via telehealth (inpatient
+consultation, etc., while out of the hospital).
+
+Is anyone thinking along these lines (really continuity of operations for
+the healthcare system)?
+
+Sent from Mail for Windows 10
+
+NIH-001477
+

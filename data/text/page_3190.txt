@@ -1,0 +1,96 @@
+900
+
+TGEV
+Mink CoV
+Ferret CoV
+Bat CoV CDPHE15
+Scotophilus bat CoV 512
+PEDV
+Bat CoV HKU10
+Miniopterus bat CoV 1
+Miniopterus bat CoV HKU8
+Human CoV NL63
+Bat NL63-related CoV
+Human CoV 229E
+SADS-CoV
+10” Rhinolophus bat CoV HKU2
+Human CoV OC43
+Murine hepatitis virus
+Rat CoV HKU24
+
+Human CoV HKU1
+
+96
+96
+100
+
+100
+
+97
+
+10 Human MERS-CoV =<}.
+Camel MERS-CoV “~
+Pipistrelius bat CoV HKUS5
+Tyfonycteris Bat CoV HKU4
+
+Hedgehog CoV
+
+0) SARS-CoV BJ01
+
+100
+100
+
+100
+
+Civet SARS-CoV SZ3
+Bat SARSr-CoV WIV1
+Bat SARSr-CoV SHC014
+Bat SARSr-CoV LYRat1
+Bat SARSr-CoV Rf1
+
+90
+
+8&3
+
+Bat SARSr-CoV ZC45
+
+too Bat SARSr-CoV HKU3-1
+
+Bat SARSr-CoV BM48-31
+BetaCoVAWuhan/WIV05/2019
+109i BetaCoV/AWuhan/WIV02/20195
+BetaCoV/Wuhan/WIV04/2019
+BetaCoViWuhan/WIV06/2019
+1001" BetaCoV/Wuhan/WIV07/2019
+Bat CoV RaTG13
+Bat Hp BetaCoV Zhejiang 2013
+Rousettus bat CoV HKUS9
+Bat CoV GCCDC'
+
+1
+
+97
+
+100
+IBV
+
+0.1
+
+The longer a virus circulates in a human populations, the more time it has to develop mutations that
+differentiate strains in infected people, and given that the 2019-nCoV sequences analyzed to date
+differ from each other by seven nucleotides at most, this suggests it jumped into humans very
+recently. But it remains a mystery which animal spread the virus to humans. “There’s a very large gray
+area between viruses detected in bats and the virus now isolated in humans,” says Vincent Munster,
+a virologist at the U.S. National Institute of Allergy and Infectious Diseases who studies coronaviruses
+in bats, camels, and others species.
+
+Strong evidence suggests the marketplace played an early role in spreading 2019-nCoV, but whether
+it was the origin of the outbreak remains uncertain. Many of the initially confirmed 2019-nCoV
+cases—27 of the first 41 in one report, 26 of 47 in another—were connected to the Wuhan market,
+but up to 45%, including the earliest handful, were not. This raises the possibility that the initial jump
+into people happened elsewhere.
+
+ 
+
+NIH-002399
+

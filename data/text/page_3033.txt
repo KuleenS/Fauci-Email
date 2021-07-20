@@ -1,0 +1,63 @@
+quarantine an important prevention measure—and casts doubt on the efficacy of temperature checks,
+the main screening method at immigration and other checkpoints.
+
+“For a given level of transmissibility, more asymptomatic transmission makes a disease harder to
+control,” said Christ] A. Donnelly, a professor at University of Oxford and Imperial College London.
+
+The U.S. Centers for Disease Control and Prevention, which warns against nonessential travel to China,
+says it isn’t clear how easily or sustainably the virus is spreading between people, but notes its ability to
+spread from infected patients without symptoms to close contacts within about 6 feet.
+
+A study led by a researcher from Boston’s Northeastern University—using mathematical probability
+models based on travel patterns and confirmed international cases—estimated the median number of
+infections in Wuhan at 31,200 as of Wednesday, compared with that day’s official tally of 2,261.
+Professors at the University of Hong Kong using similar methods published a study in the Lancet on
+Friday that estimated there were 75,815 infected in Wuhan as of Jan. 25, when official counts were still
+in the hundreds.
+
+“We think only 1 in 20 people who are getting infected are actually being diagnosed” in Wuhan, said
+Jonathan M. Read, lead author of a study from Britain’s Lancaster University that also put Wuhan
+numbers in the tens of thousands as of Jan. 22. “It’s quite a bit more transmissible than seasonal flu.”
+Several recent studies published by scientists estimate that each person infected will, on average, infect
+two to three others. Epidemiologists call that the reproduction number.
+
+A reproduction number over 2 suggests an epidemic will expand rapidly, while below 1 suggests the
+problem is dwindling. Estimates of the reproduction number differ widely, with some studies using
+probability models and others based on regression analysis of cases over different time periods.
+
+Still, “they all point in the same direction,” said Christian L. Althaus, an epidemiologist at the University
+of Bern in Switzerland who co-wrote a study estimating the basic reproduction number of the virus at
+2.2. “There is a potential threat of a global pandemic if this reproduction number cannot be reduced.”
+In Japan, a local bus driver in his 60s tested positive after he drove tourists from Wuhan, none of whom
+had exhibited severe symptoms. In Germany, four employees at an auto-parts supplier contracted the
+virus after attending a training session with a colleague from China, according to the company. The
+Chinese woman didn’t exhibit symptoms, but started feeling ill on her flight home, where she tested
+positive for the new coronavirus.
+
+A study published in the New England Journal of Medicine study by Chinese authors including at the
+Chinese Center for Disease Control and Prevention says the virus spread between people as early as
+mid-December. The researchers analyzed 425 patients, with more than half of the cases linked to the
+Huanan seafood wholesale market where authorities believe the virus first spread to humans from wild
+animals.
+
+The researchers started identifying and collecting cases around the start of the year, by interviewing
+patients, relatives and other close contacts. They estimated the reproduction number at 2.2 and said
+that the majority of patients weren’t hospitalized until after five days of being ill.
+
+Researchers of recent studies cautioned that even their estimates of the virus’ reproduction number are
+based on early and incomplete data and only assess its potential to spread before travel restrictions and
+other control measures begin. Thereafter, the reproduction number can vary depending on those
+measures’ effectiveness and other circumstances of the outbreak.
+
+Chinese officials have said the outbreak could peak or even begin to subside by Feb. 8, though some
+overseas experts have suggested the outbreak might not peak for several weeks.
+
+They note that the reproduction number doesn’t necessarily predict an outbreak’s severity, as many
+other factors come into play. Measles, for example, has a reproduction number of 12 to 18, but doesn’t
+spread that fast because there is a widely used vaccine.
+
+As yet, there are no vaccines for the new coronavirus, so Chinese authorities are relying on physical
+intervention measures, including locking down entire cities and forced quarantine.
+
+NIH-002209
+

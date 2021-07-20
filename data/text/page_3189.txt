@@ -1,0 +1,72 @@
+When the first 2019-nCoV sequence became available, researchers placed it on a family tree of
+known coronaviruses—which are abundant and infect many species—and found that it was most
+closely related to relatives found in bats. A team led by Shi Zheng-Li, a coronavirus specialist at the
+Wuhan Institute of Virology, reported on 23 January on bioRxiv that 2019-nCoV’s sequence was
+96.2% similar to a bat virus and had 79.5% similarity to the coronavirus that causes severe acute
+respiratory syndrome (SARS), a disease whose initial outoreak was also in China more than 15 years
+ago. But the SARS coronavirus has a similarly close relationship to bat viruses, and sequence data
+make a powerful case that it jumped into people from a coronavirus in civets that differed from
+human SARS viruses by as few as 10 nucleotides. That’s one reason why many scientists suspect
+there’s an “intermediary” host species—or several—between bats and 2019-nCoV.
+
+According to Bedford's analysis, the bat coronavirus sequence that Shi Zheng-Li’s team highlighted,
+dubbed RaTG13, differs from 2019-nCoV by nearly 1100 nucleotides. On nextstrain.org, a site he co-
+founded, Bedford has created coronavirus family trees (example below) that include bat, civet, SARS,
+and 2019-nCoV sequences. (The trees are interactive—by dragging a computer mouse over them, it’s
+easy to see the differences and similarities between the sequences.)
+
+Phylogeny
+ewes Tege & re ae)
+f° | WRI Mane | oe eKeny ies } “ww
+we
+B (eer omen a
+{own 11
+$ 0m!
+rami. YObed
+"wes
+‘onal 8D
+tn:
+@ 6fom
+ csoe
+=."
+del
+SARY gman!
+weet
+© iw’
+@ WZ)
+- —e GQyagre
+~-— = GotZ 3;
+Seale
+oH WWE C4
+ow:
+@ Garam
+—-g G94
+on HY
+- —@ 459
+egy Oe
+~——____—~@ ut
+~————e Bete
+~~ ww Meta?
+————- <q Anse
+—_—_—_--_ 9 Bor]
+I~ 1x
+vay
+ty VR LE
+Oo meu
+wus
+em
+@: ter?
+en eee
+@ Qe wren
+
+Bedford’s analyses of RalG13 and 2019-nCoV suggest that the two viruses shared a common ancestor
+25 to 65 years ago, an estimate he arrived at by combining the difference in nucleotides between the
+viruses with the presumed rates of mutation in other coronaviruses. So it likely took decades for
+RaTG13-like viruses to mutate into 2019-nCoV.
+
+Middle East respiratory syndrome (MERS), another human disease caused by a coronavirus, similarly
+has a link to bat viruses. But studies have built a compelling case it jumped to humans from camels.
+And the phylogenetic tree from Shi’s bioRxiv paper (below) makes the camel-MERS link easy to see.
+
+NIH-002398
+

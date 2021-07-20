@@ -1,0 +1,51 @@
+From: Fauci, Anthony (NIH/NIAID) [E]
+
+Sent: Mon, 27 Apr 2020 00:42:34 +0000
+
+To: Lerner, Andrea (NIH/NIAID) [E]
+
+Subject: FW: Update: Inhibit cytokine storm in COVID-19 patients by Proteasome
+Inhibitors
+
+Attachments: —,
+
+Please respond to this person. Thanks.
+
+From: Kircheis Or. Ralf <RKircheis@syntacoll.de>
+Sent: Wednesday, April 22, 2020 9:41 AM
+To: Coomes, Stephanie (NIH/NIAID) [E] [TY >; Fauci, Anthony (NIH/NIAID) [E]
+
+Cc: CF Kircheis Dr. Ralf <RKircheis@syntacoll.de>
+Subject: Update: Inhibit cytokine storm in COVID-19 patients by Proteasome Inhibitors
+Importance: High
+
+Dear Dr. Fauci,
+dear Dr. Coomes,
+
+thank you for your reply from 13. April with the notice that the information has been shared with NIAID’s
+COVID-19 research team.
+
+Has the project already been initially evaluated by the team?
+Are there any questions or need for additional information?
+
+e | have summed up the relevant data regarding the use of proteasome inhibitors for treatment of
+COVID-19 patients with acute lung and systemic organ failure in a position paper, please find a
+Preview draft attached.
+
+e With regard to currently ongoing trials with monoclonal antibodies against the IL-6 receptor, i.e.
+tocilizumab or sarilumab: These approaches go into the same direction as the present
+suggestion, however, inhibition of NF-KB by proteasome inhibitors could provide the unique
+potential to inhibit the release of multiple cytokines simultaneously, in particular strongly pro-
+inflammatory cytokines including IL-1, IL-6, TNFa and chemokines, such as MIP-1 and CXCL1.
+
+e This simultaneous inhibition of multiple cytokines/chemokine seems to be advantegeaus
+compared to single target approaches (as with the mAb) to compensate for redundant and
+synergistic effects of multiple cytokines released during highly pathogenic CoV or H5N1
+infection.
+
+Looking forward to hearing from you.
+
+Kind regards,
+
+Ralf
+

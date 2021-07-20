@@ -1,0 +1,44 @@
+1. Do the current available data allow to understand the threat level of coronavirus 2019-
+nCoV in terms of both lethality and diffusion speed, and about the possible evolution
+scenarios of the disease?
+
+There is much that we do not know about the novel coronavirus. Currently, there have been more
+than 37,000 confirmed cases in China, and China has reported more than 800 deaths. As you
+know, there have been three confirmed cases in Italy to date. The reported case fatality rate
+(lethality) among the 37,000 cases that have come to the attention of the health care system
+is 2%. However, given that there are likely many more cases that are without symptoms
+or with minimal symptoms , the actual death rate is probably lower than 2%.
+
+It is impossible to predict how the virus will evolve. It is our hope that the extraordinary
+containment measures that China has implemented will help prevent the outbreak from
+becoming a global pandemic. But given that the virus is present in 27 countries to date and can
+be transmitted from person-to-person, it may take a foothold and evolve into a global pandemic.
+
+2) What exactly do we know about its modes of transmission, especially from people who
+do not yet have the symptoms?
+
+Again, there is much that we do not know about the novel coronavirus, including its specific
+transmission abilities. Based on initial findings that have been reported, we suspect its
+transmission is similar to influenza and other respiratory viruses, namely that is transmitted
+through respiratory droplets when an infected person coughs or sneezes, and by touching
+surfaces, such as door handles, that recently have virus on them and then touching your face.
+There have also been reports that the virus is present in feces and vomit. However, it is still
+uncertain that the virus can be transmitted through this route.
+
+Traditionally, most viruses are transmitted when someone has symptoms. With the novel
+coronavirus; however, there appears to be asymptomatic transmission occurring. We do not
+know how many cases are being driven by asymptomatic transmission or by those with
+symptoms. Typically, viruses are largely transmitted by infected people experiencing symptoms.
+
+3) Are the genetic sequences provided by China enough to start working on a vaccine?
+
+The genetic sequences provided by China enabled researchers to quickly develop a diagnostic
+that is being used to determine whether someone is infected with the novel coronavirus. The
+genetic information has also been useful in work to develop a preventive vaccine. The National
+Institute of Allergy and Infectious Diseases, part of the U.S. National Institutes of Health, is
+building on its experience with the SARS and MERS coronaviruses to better understand the virus
+as well as develop and test rapid point-of-care diagnostics, vaccines and treatments, including
+broad-spectrum antivirals and antibody therapies. In terms of vaccines specifically, we are
+
+NIH-002040
+

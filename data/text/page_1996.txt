@@ -1,0 +1,44 @@
+Mortality at 28 days was similar in the lopinavir—-ritonavir group and the standard-care group (19.2% vs.
+25.0%; difference, -5.8 percentage points; 95% Cl, -17.3 to 5.7). The percentages of patients with
+detectable viral RNA at various time points were similar. In a modified intention-to-treat analysis,
+lopinavir—ritonavir led to a median time to clinical improvement that was shorter by 1 day than that
+observed with standard care (hazard ratio, 1.39; 95% Cl, 1.00 to 1.91). Gastrointestinal adverse events
+were more common in the lopinavir—ritonavir group, but serious adverse events were more common in
+the standard-care group. Lopinavir-ritonavir treatment was stopped early in 13 patients (13.8%)
+because of adverse events.
+
+Conclusions
+
+In hospitalized adult patients with severe Covid-19, no benefit was observed with lopinavir—ritonavir
+treatment beyond standard care. Future trials in patients with severe illness may help to confirm or
+exclude the possibility of a treatment benefit. (Funded by Major Projects of National Science and
+Technology on New Drug Creation and Development and others; Chinese Clinical Trial Register number,
+
+ChiCTR2000029308. opens in new tab.)
+
+Lopinavie -ntonayir
+
+—?
+
+- wo _ ———
+re Control
+
+i
+E
+
+No. at Risk
+Lopinavie - ritonavir 99 98 93 738
+Control 100 «100 98 &3
+
+ 
+
+Figure 2. ime to Clinical
+
+Improvement in the Intention-to-Treat Population.
+
+Disclaimer: Any third-party material in this email has been shared for internal use under fair use provisions
+of U.S. copyright law, without further verification of its accuracy/veracity. It does not necessarily represent
+my views nor those of NIAID, NIH, HHS, or the U.S. government.
+
+NIH-000398
+

@@ -1,0 +1,43 @@
+Prior to the EUA change, the calculus for our labs was that it would take 3 to 4 weeks to
+actually validate a test, and then we would submit to the FDA for EUA (a process none of
+us has ever done), and then we would wait for the FDA to respond (hopefully in the
+affirmative). I think we all expected the FDA EUA review to be at least 4 weeks. Based on
+that time-line, many commercial vendors would have reagents available with their own
+EUAs that would be able to be performed on large automated instruments including
+potentially STAT. None of the LDT assays (or CDC assay) can be performed STAT or on
+demand.
+
+With the EUA change, the process to validate the test 1s still the same and will still take 3
+or more weeks. Once validated, we can perform clinical testing (like any other LDT) while
+we submit the EUA. This would likely allow us to begin testing several weeks before
+commercial vendors have EUA reagents available based upon our best current
+information. Most of us expect to transition a commercial EUA at some point.
+
+The recent statement that IDT reagents can be used under the EUA from CDC is
+misleading. It applies to a very limited number of lots (currently 1, likely 2 soon), it
+assumes reagents are available, and it requires strict adherence to the CDC protocol using
+identical extraction methods (2 choices) and amplification / detection methods (1
+instrument). It still specifies the use of an N1, N2, and N3 reactions, but CDC has dropped
+the N3 reaction. The EUA has not yet been updated. Neither of our hospitals have the
+complete extraction or amplification instruments so we have to do the EUA anyway.“
+
+Hope you are coping ok,
+James
+
+James B. Krellenstein
+
+109 S Sth St,
+
+Brooklyn, NY 11249
+(mobile)
+
+ 
+
+On Sun, Feb 2, 2020 at 7:36 PM James Krellensteinf—_______________ ®) ©}> wrote:
+Tony:
+
+| hope this email finds you well. Over the past 48 hours, PrEP4All has received multiple requests from
+leaders of public health departments and public health practitioners to begin publicly pressuring
+
+NIH-000950
+

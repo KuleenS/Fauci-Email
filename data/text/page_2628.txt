@@ -1,0 +1,42 @@
+confirmed (58), number in
+hospital (44), and number in ICU
+(>1). Mix of hospital patients is
+unknown (from the Singapore data
+the ratio of hospitalized to ICU
+has ranged from 6:1 to 13:1 from
+two data points).
+
+So estimates of severity looking
+only at the American passengers:
+
+~400 total American passengers
+58 confirmed to have COVID-19
+
+12 Asymptomatic
+(20%)
+
+46 Symptomatic (80%)
+(44 cases actually hospitalized)
+
+~2% of total
+cases requiring ICU admission (1
+case)
+
+Expected mortality
+for patients with
+pneumonia
+admitted to ICU
+(15-50%);
+assuming 2% of
+those who become
+infected with
+COVID-19 require
+ICU care, these
+mortality rates
+equate to a CFR of
+0.3%-1.0%
+
+Sent from Mail for Windows 10
+
+NIH-001553
+

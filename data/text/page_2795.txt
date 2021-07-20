@@ -1,0 +1,56 @@
+«,..cardiotonic steroids ouabain and bufalin, which are known not to affect the transport function of Na+,K+-
+ATPase, inhibited infection of cells with MHV, FIPV, Middle East respiratory syndrome (MERS)-CoV, and VSV,
+but not IAV, when the compounds were present during virus inoculation. Cardiotonic steroids were shown to inhibit
+entry of MHV at an early stage, resulting in accumulation of virions close to the cell surface and, as a consequence,
+in reduced fusion. In agreement with an early block in infection, the inhibition of VSV by CTSs could be bypassed
+by low-pH shock. Viral RNA replication was not affected when these compounds were added after virus entry. The
+antiviral effect of ouabain could be relieved by the addition of different Src kinase inhibitors, indicating that Src
+signaling mediated via ATPIA1 plays a crucial role in the inhibition of CoV and VSV infections...» (25)
+
+In conclusion, in order to verify the possible efficacy of omeprazole and esomeprazole in the control of infection by
+coronaviruses :
+
+The equivalent of the maximum serum concentration that can be obtained in the human body should be used
+and tested in active (ionized) form in vitro.
+Unlike an in vitro test, the human body is an open system, a dissipative system. However, local concentrations of the
+ionized form should not exceed serum concentrations of the inactive non-ionized form in the absence of active
+transport.
+But the transformation from the non-ionized form to the ionized form could continue until the saturation of the
+reactions at the cellular level or until the depletion of the transformation capacity from the inactive form to an active
+form, linked to a change in acidity or the depletion of the inactive form.
+
+As omeprazole can modify or even inhibit the action of the M2 protein of the influenza virus at the cellular
+level (26), based on a computer simulation test, tt would be desirable to check the interaction capabilities of
+omeprazole with protein E of the coronavirus. Protein E is likely to resemble the protein M2 in its mode of action.
+
+In the absence of a treatment recognized as effective in the context of a coronavirus infection and in the
+absence of data clearly demonstrating the ineffectiveness of omeprazole, personally, I would be tempted to take
+omeprazole after being in contact (at a distance of less than 2 to 3 meters) with people at risk of contamination or if I
+had the first symptoms, hoping for the inhibitory activity of omeprazole on P-type ATPases (27, 28) in the context
+of coronavirus exocytosis, in analogy to the action "off target on the endosomal vATPase” during endocytosis
+processes.
+
+This step, if effective, will not prevent infection, but could lessen its importance, slow the process down and give the
+immune system a complementary option to defend itself...
+
+Personal experience, using omeprazole in the context of seasonal respiratory viral infections since 2007,
+reminds me of the indication to divide the daily dose into two daily doses (omeprazole 10mg morning and evening is
+usually already effective for seasonal respiratory viral infections). According to the evolution and the importance of
+inflammatory state I associate an antihistamine, eg cetirizine.
+
+In the context of the coronavirus, I would be tempted
+
+share the maximum permissible daily dose of omeprazole in 3 divided doses after being in contact with
+people at risk of contamination at a distance of less than 2 to 3 meters
+
+divide the daily dose of omeprazole into two daily doses in case of minor symptoms
+
+take the daily dose of omeprazole in a single dose if the symptoms worsen with repercussions on the general
+condition
+
+to resume the daily dose of omeprazole in two daily doses when the symptoms of severity diminish.
+
+The effectiveness of esomeprazole may be greater than omeprazole.
+
+NIH-001966
+
